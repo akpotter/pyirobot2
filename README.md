@@ -12,8 +12,9 @@ Need more reverse.
    
    Result might be :  
 
+```bash
     Looking for robots...
-```bash    
+    
     {"ver":"2","hostname":"Roomba-XXXXXXXXXXXXXXXX","robotname":"MyRoomba","ip":"192.168.1.2","mac":"XX:XX:XX:XX:XX:XX","sw":"v2.0.0-34","sku":"R98XXXX","nc":0,"proto":"mqtt"}
 ```
 
